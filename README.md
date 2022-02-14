@@ -10,6 +10,9 @@ dell'applicazione web, applicazione android e applicazione ios.
 2. [Database](#db)
 3. [Backend](#be)
 4. [Frontend](#fe)
+    1. [Sito](#sito)
+    2. [Android](#android)
+    3. [IOS](#ios)
 5. [Tools](#tl)
 6. [Aspetti tecnici](#at)
 
