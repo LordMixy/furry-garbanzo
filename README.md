@@ -39,11 +39,11 @@ L'autenticazione avverrà con oauth2.
 
 ### Sito
 
-Frontend Sito: React.js (utilizzando Material UI, per esempio)
+Sarà utilizzato il framework React.js (utilizzando Material UI, per esempio).
 
 ### Android
 
-app android, uno dei 3: (3) ionic, (3) react native
+Per lo sviluppo android verrà utilizzato uno dei seguenti framework: Ionic, React Native
 
 ### IOS
 
